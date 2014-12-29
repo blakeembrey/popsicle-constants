@@ -1,0 +1,35 @@
+{
+  "name": "popsicle-constants",
+  "version": "0.0.0",
+  "description": "Replace constants in the URL string",
+  "main": "popsicle-constants.js",
+  "scripts": {
+    "test": "istanbul cover _mocha -- -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/blakeembrey/popsicle-constants.git"
+  },
+  "keywords": [
+    "popsicle",
+    "plugin",
+    "constants"
+  ],
+  "author": {
+    "name": "Blake Embrey",
+    "email": "hello@blakeembrey.com",
+    "url": "http://blakeembrey.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blakeembrey/popsicle-constants/issues"
+  },
+  "homepage": "https://github.com/blakeembrey/popsicle-constants",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "es6-promise": "^2.0.1",
+    "istanbul": "^0.3.5",
+    "mocha": "^2.0.1",
+    "popsicle": "^0.1.1"
+  }
+}
