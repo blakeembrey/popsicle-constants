@@ -1,6 +1,6 @@
 {
   "name": "popsicle-constants",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Replace constants in the URL string",
   "main": "popsicle-constants.js",
   "scripts": {
