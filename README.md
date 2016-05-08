@@ -7,6 +7,8 @@
 
 Replace constants in the request URL.
 
+**DEPRECATED:** Use template strings before making HTTP request.
+
 ## Installation
 
 ```
